@@ -8,7 +8,7 @@ This is a VSCode extension built to generate code as a developer tool. It utiliz
 
 ## Installation
 
-1. Deploy the [CloudFormation template](https://github.com/iankohhh/Bedrock-Coder) in your AWS environment.
+1. Download the *cfTemplateBedrockCoder.yaml* file and deploy the CloudFormation template in your AWS environment.
 2. Locate the ALB endpoint under the outputs section.
 
 ![Locate ALB Endpoint](images/image1.JPEG)
