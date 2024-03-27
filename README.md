@@ -11,13 +11,13 @@ This is a VSCode extension built to generate code as a developer tool. It utiliz
 1. Deploy the [CloudFormation template](https://github.com/iankohhh/Bedrock-Coder) in your AWS environment.
 2. Locate the ALB endpoint under the outputs section.
 
-![Locate ALB Endpoint](image1.JPEG)
+![Locate ALB Endpoint](images/image1.JPEG)
 3. Install Bedrock Coder from the VSCode extension marketplace.
 
-![Install Bedrock Coder](image2.JPEG)
+![Install Bedrock Coder](images/image2.JPEG)
 4. Open the extension settings in VSCode and paste the ALB endpoint.
 
-![Paste ALB endpoint](image3.JPEG)
+![Paste ALB endpoint](images/image3.JPEG)
 ## Usage
 
 1. Open the Code Generation Extension by going to the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`) and selecting "Code Generation".
